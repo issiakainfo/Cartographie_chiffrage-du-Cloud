@@ -1,2 +1,6 @@
 # Cartographie_chiffrage-du-Cloud
-Ceci est un exercice sur l'introduction au Cloud computing
+# Présentation 
+Ce fichier contient contient une fiche d'analyse réalisée dans le cadre de l'exercice sur l'introduction au Cloud.
+
+## Auteur 
+KARAMOKO ISSIAKA 
